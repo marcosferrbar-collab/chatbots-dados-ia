@@ -2,7 +2,7 @@
 
 Projetos práticos combinando **análise de dados** (Python, pandas, SQL) com
 **inteligência artificial** (chatbots que respondem perguntas em português
-sobre dados reais), rodando com IA local e gratuita via [Ollama](https://ollama.com).
+sobre dados reais), [Ollama](https://ollama.com).
 
 ## 📁 Projetos
 
